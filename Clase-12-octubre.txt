@@ -1,0 +1,114 @@
+Clase 12 octubre:
+
+    -   Continuamos con scrum : llegamos hasta la pagina 21
+
+        - Esta bueno que se decida entre todos los backlog items.
+
+    -el Product owner puede tener reuniones con todos los del equipo
+
+    -proyectos cortos que se suelen hacer entregables cada 15 días
+
+    -hay reuniones diarias que se hacen las 3 preguntas
+
+            - no ser mas de 8 y es interesante poner algo para gestionar el tiempo, como el ejemplo de la tostadora 
+
+
+
+-Planing poker, tiene el objetivo de que cada uno elija su carta de lo que quiere hacer y que cada integrante del grupo designe un nivel de dificultad a cada tarea.  
+    
+        No saben lo que tomo el otro
+
+
+
+>>> Aveces se dan cursos de capacitacion entre protectos
+
+        formula: 
+
+            >Tiempo minimo + $ veces el tiempo medio + tiempo maximo
+            ------------------------------------------------
+                                    6
+
+
+
+El profe concidera que la review con todo el equipo es una perdida de tiempo, el que se deberia de encargar de hablar con el cliente es el Product Owner
+
+
+el scrum es menos liberal que el canvan
+
+
+
+
+
+--KanBan :
+
+    3 columnas :
+        para hacer
+        haciendo
+        terminado 
+
+
+    Metodo de administracion de tareas y flujos de trabajo usado especialmente con las empresas que trabajan en desarrollo de software.
+
+    - se basa en hacer visible lo que de otro modo es trabajo del conocimiento intangible, para asegurar que el servicio funciona con la cantidad de trabajo correcta.
+
+        se arma un tablero, y se le asigna un color segun su dificultad o preminencia o ambas
+
+    cuando tienen kanban se pueden sumar en cualquier momento, agarrar una tarea y realizarla
+
+    QUE ES JUST IN TIME
+        -es una politica de mantenimiento de inventarios al minimo nivel posible donde los suministradores entregan justo lo necesario en el momento nesesario para completar el proceso de produccion 
+
+            LOGRA: 
+                - reducir el desperdicio 
+                - llevar un control fisico del material
+                - producir elementos en el momento y cantidad necesaria requerida.
+
+    
+    Principios directores de Kanban:
+
+        1- sostentabilidad
+        2- Orientacion al servicio 
+        3- supervivencia 
+
+
+
+        Esta bueno ponerse algunas normas, ejemplo no hacer tantas tareas a la vez, con el fin de que se terminen las que estan en proceso. 
+
+        tambien el señor aveces se puede tomar el tiempo de mirar el tablero para ver que no haya cuellos de botellas de tareas
+
+        tambien se puede tomar a una persona como auxilio, que se encarge de ayudar en tareas que no tomo para completarlas y asi evitar el cuello de botella.
+
+
+    -( Service manager ) - parecido al Product Owner
+    -delivery manager : Responsable del flujo de trabajo dentro de un sistema kanban y/o determinados itms de trabajo y facilita el kanban meeting y el delivery Planning
+
+            Circuitos de feedback 
+                necesitan por ser tan liberales, donde se hacen revisiones 
+
+                    pensar, llevar a cabo, medir y mejorar 
+
+
+
+
+
+
+    Temarios: 
+        - primer clase - Relevamiento de saberes ( no toma nada)
+        -segunda clase : Empresas y tipo ( 
+            que es una empresas
+            empresa publica, privada, con y sin fin de lucro
+        )
+        -tercera clase: tipos socitarios (
+            pulgar para abajo, sociedad de echo, sociedad regular, sociedad civil, sociedad anonima, sau puede ser de una sola persona, SAS 
+        )
+        -Cuarta clase : Sociedades anonimas (SAS)
+        -clase cinco : cooperativa, provicion de servicios informaticos. tienen que ser 10 y hablamos de contratos 
+
+        -clase 6 : feriado 
+
+        -clase 7 : contratos, precontratos, contratos multiples, etc 
+    
+        - clase 8 y 9 scrum y kanban 
+
+
+        21.50

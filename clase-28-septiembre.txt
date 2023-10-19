@@ -1,0 +1,50 @@
+Clase 28 de Septiembre :
+
+    CONTRATOS INFORMATICOS:
+
+        -El contrato :
+            -Articulo 1137 codigo civil: "Hay contrato cuando varias personas se ponen de acuerdo sobre una declaracion de voluntad comun destinada a reglar sus derechos" 
+
+            -Es decir, se trata de un acuerdo voluntario entre dos o mas partes que cuentan con la aptitud legal, para tomar decisiones, las cuales tienen como efecto generar una serie de obligaciones y derechos.
+
+            -Es la form aconstituida por el derecho y la teoria juridica que da inicio, modificacion o cierre a las relaciones legales entre personas.
+
+            -Pueden ser personas fisicas ( con existencia individual) como a las juridicas ( con derechos, obligaciones y existencia fisica, pero no personal).
+
+        -Para que alcance su eficiencia, segun la ley, debe cumplirs tres condiciones: 
+
+            1- Un consentimiento entre dos partes que libremente eligen firmarlo. los casos con falta de conocimiento donde quede alterado el conocimiento de una de las partes, se llaman CASOS DE FALTA DE CONSENTIMIENTO EL ERROR, LA VIOLENCIA O EL DOLO.
+
+            2-Un objeto que representa el interes compartido para el contrato, ya sean los bienes comerciales, los servicios ajustados a la ley y al orden publico o a las voluntades que las relaciones suponen.
+
+            3- Una causa justa para la celebracion del contrato. la razon que llevo a las partes a realizar el acuerdo debe ser verdadera y licita.
+
+        -CONTRATACION ELECTRONICA:
+
+            Se denomina asi o por medio informatico a aquella que se realiza mediante la utilizacion de algun elemento electronico, con influencia decisiva, real y directa sobre la formacion de la voluntad, el desenvolvimiento o la interpretacion de un acuerdo. 
+            
+            esta clase de contratacion comprende a todos los contratos que se celebren por medios electronicos  o telemeticos. 
+
+            se consideran tales solamente aquellos contratos que se celebrean mediante la transmicion electronica de datos de computadora a computadora. 
+
+            Es esencial aclarar que los contratos electronicos no son contratods referidos exclusivamente a bienes o servicios tecnologicos, simplemente son contratos celebrado a traves de medios electronicos. 
+
+            EJEMPLOS: compra de pasajes de avion a traves de una pagina web, etc
+
+        -CONTRATACION INFORMATICA:
+
+            incluye los contratos en los cuales los bienes y servicios informaticos constituyen su objeto, es decir, que en este tipo de acuerdo es fundamental que aquella que el usuario adquiera del proveedor sea un bien y/o servicio informatico 
+
+            EJEMPLO  :  la contratacion de un servicio de programacion para el desarrollo de un programa de software.
+
+
+        -BIENES Y SERVICIOS INFORMATICOS: 
+            Los bienes informaticos comprenden los "elementos Materiales" que conforman el soporte fisico o hardware ( elementos mecanicos, magneticos, electricos o electronicos del sistema) y los "bienes inmateriales" que proporcionan las ordenes, los datos, los procedimientos y las instrucciones en el tratamiento automatico de la informacion, cuyo conjunto constituye el soporte logico del elemento informatico (Software)
+
+            En cambiom, los servicios informaticos abarcan todos aquellos servicios que se relacionan con el tratamiento automatizado de la informacion y sirven de apoyo informatica, tales como el diseño, el analisis y el mantenimiento del sistema 
+
+        -CARACTERISTICAS DE LOS CONTRATOS INFORMATICOS: 
+            Los contratos informaticos estan comprendidos dentro de la amplia definicion del ARTICULO 1137 del Codigo civil y presentan una gran diversidad de presentaciones que el proveedor puede ofrecer, ya sea el estudio y analisis de los problemas de automatizacion.
+            Suministro de equipo y software, adaptacion de un software a las necesidades individuales del usuario, etc. dicha diversidad provoca que ademas de proveedores y usuarios puedan aparecer en la negociacion distribuidores, productores de equipos originales, entidades prestadoras de servicios, consultores en informatica y analistas de sitemas.
+
+        -SU TIPICIDAD: 

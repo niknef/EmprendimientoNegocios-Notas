@@ -1,0 +1,134 @@
+Clase del 5 de octubre :
+
+    Metodos Agiles:     
+        
+            Proceso que nos permite al equipo dar respuestas rapidas e impredecibles a las valoraciones que reciben sobre su proyecto. Crea oportunidades para evaluar la direccion que va a tomar un proyecto durante el ciclo de desarrollo.
+
+            Proceso de empoderamiento que ayuda a las empresas a diseñar y crear el producto deseado. El proceso de gestion es muy util para las compañias de software, nos permite analizar y mejorar nuestro producto durante el desarrollo. Nos da la posibilidad de dar un producto mejor el cual hace que nos mantegamos competitivos.
+
+
+    Scrum:
+
+            -  Es un "Framework"
+            - Entorno de "auto organizacion" y la creatividad
+            - Forma de trabajo que recuerde un esfuerzo colaborativo, implica que desarrolladores y clientes esten en dialogo continuo.
+            -es una herramienta para que la gente identifique sus problemas y pueda buscar soluciones. 
+
+            > "Scrum no es una metodologia, es un camino"
+
+
+
+    ¿Como esta compuesto el SCRUM?
+
+        --Personas (ROLES)
+            -Dueño de producto (Product OWNER) : 
+                >Persona Unica
+                >Representa los intereses del cliente y comunica una vision del producto.
+                >Tiene la autoridad para definir que priorizar del producto.
+                >Define los intereses del cliente como requerimientos.
+                >Responde las consultas del equipo sobre estos requerimientos.
+                >Define los criterios de aceptación.
+
+            -Equipo de desarrollo (Development Team):
+                >Son las personas que hacen el trabajo
+                >Auto organizados
+                >Multifuncionales
+                >Son todos desarrolladores.
+                >Comunicacion y cooperación
+
+            -Scrum Master:
+                >Facilitador del equipo
+                >Asegura que scrum se entienda y se adopte de la mejor manera.
+                >No es un Lider de proyecto, ni manager ni responsable del producto.
+
+
+        --Back Log:
+            -Product BackLog Item:
+                - Especifica un requerimiento o peticion del usuario 
+                -Por lo gneral se escribe en formato de user story
+                    Ejemplo: "Como administrador del sistema quisiera una pantalla que me permitiera dar de alta a un cliente" 
+                -Debe tener una medida de estimacion y un orden de prioridad.
+                -Debe incluir los criterios de aceptacion.
+
+            -Sprint BackLog: 
+                -El equipo decide cuales items del product BackLog entran en un script con base en el pronostico (forecast) que hagan.
+                -Conviene que el sprint tenga un objetivo como "Implementacion basica de debitos automaticos"
+                -Al final del sprint el resultado deberia ser un incremento de funcionalidad potncialmente desplegable, integrado y testeado.
+
+            -Spring Task:
+                -Componen los Product BackLog Item
+                -Definen las actividades detalladas que se refieren para implementar un PBI 
+                -Son internas del equipo de desarrollo 
+                -generalmente se estiman en horas
+            
+            -Spring Retrospective Items:
+                -Es un backlog especial que permite hacer seguimientos a los elementos identificados en las restrospective meeting
+                -definen actividades detalladas para implementar mejoras en el proceso scrum durante un sprint 
+                -NO tienen estimacion pero si un responsable que se encarga de hacer seguimiento.
+
+        --Eventos o ceremonias:
+            -Sprint: 
+                -Es una interacion del proyecto 
+                -con tiempo definido y no puede ser modificado ( timebox)
+                -dura entre 1 y 4 semanas (generalmente)
+                -tiene una lista definida de PBIs a implementar
+
+            -Scrum Diario:
+                -Reunion diaria - 15 min maximo 
+                -En lo posible es de pie 
+                -todo el equipo
+                -plan para las proximas 24 horas 
+
+                        Las 3 preguntas. 
+
+                            -Que hice ayer
+                            -que hare hoy
+                            -Hay algun impedimento 
+            
+            -Sprint Plannig: 
+                -El equipo de desarrollo y el product Owner revisan los items mas prioritarios del Product backlog
+                -se debe tener en cuenta 
+                    -product Backlog 
+                    -capacidad proyectada para el sprint 
+                -Se define un objetivo para el sprint
+            
+            -Planning: 
+                -Tecnica de estimacion de tareas consensuadas
+                -Por lo general se utiliza como unidad los story points 
+                -representa una medida abstracta del tamaño de una tarea 
+
+            -Planning Poker. 
+
+            -Revision del sprint (sprint review):
+                -Se inspecciona el resultado del sprint y se actualiza el product Backlog si es necesario 
+                -Participa equipo Scrum y los interesados invitados por el PO 
+                -PO ecplica los elementos que estan terminados y los que no se pudieron terminar
+                -solo se muestran los items que cumplen con la definicion de hecho 
+
+            Refinamiento de Product Backlog:
+                -Es una terea ONGOING de mantenimiento del Product Backlog.
+                    . estimar nuevos items o reestimar existentes
+                    .partir items muy grandes en items mas pequeños y manejables
+                -participan el Product Owner y parte del equipo de desarrollo 
+                - se recomienda no mas del 10% de la capacidad del equipo de desarrollo.
+
+
+
+    -restrospective del sprint: 
+        -Es ua reunion para revisar y adaptar el proceso.
+        -proposito: 
+            . inspeccionar como fue el sprint en cuanto a personas, relaciones, procesos, herramientad.
+            . identificar y obtener los elementos mas importantes que salieron bien y las posibles mejoras.
+            .Crear un plan para implementar las mejoras a la forma en la que el equipo scrum desempeña su trabajo.
+
+
+    -Demostracion 
+        -Es una reunion para revisar lo realizado durante el sprint.
+        -pueden ser abiertas o cerradas.
+        -Proposito: 
+            .Inspeccionar como fue el sprint en cuanto a el desarrollo de lo planificado.
+            .Ver el resultado del producto llevado a cabo durante el sprint.
+            . se evaluan de algun requerimiento.
+
+
+    
