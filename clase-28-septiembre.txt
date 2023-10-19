@@ -48,3 +48,185 @@ Clase 28 de Septiembre :
             Suministro de equipo y software, adaptacion de un software a las necesidades individuales del usuario, etc. dicha diversidad provoca que ademas de proveedores y usuarios puedan aparecer en la negociacion distribuidores, productores de equipos originales, entidades prestadoras de servicios, consultores en informatica y analistas de sitemas.
 
         -SU TIPICIDAD: 
+
+            Los contratos informaticos pueden constituirsea base de diversos tipos legales como : de compraventa, locacion de obra o servicios, de leasing y de licencia. sin embargo, tambien se formancontratos al margen de los principios legales esblecidos en la norma de nuestro codigo, comprendidos en la denominacion especial de contratos "innominados" (los contratos son nominados o innominados segun la ley que los designa o no) o son "ATIPICOS"
+
+                Aunque el contrato informatico se asemeje a los contratos clasicos, la complejidad de su estructura los distingue. 
+
+                Cuando se habla de la compraventa de un software, es indebido encasillarlo como tipico, puesto que falta "la cosa" como objeto material.
+
+                si se trata de contratos atipicos no quiere decir que por ello no deban cumplirce los requisitos basicos de todo contrato, como la buena fe, y la capacidad contractual de los mismos. ademas de carecer de vicios que hagan que el contrato sea nulo o anulable..
+
+            -LOS CONTRATOS ATIPICOS DEBEN REGIRSE POR: 
+
+                1- Por la voluntad de las partes 
+                2- por las normas generales sobre contratos y obligaciones
+                3-por las dispociciones correspondientes a los contratos tipicos, a fines que sean compatibles entre si y se adecuan a su finalidad.
+
+
+
+---CLASIFICACION DE CONTRATOS INFORMATICOS: 
+
+    segun la materia del acto que se celebre, los contactos informaticos pueden corresponder a :
+
+        -Equipamiento : unidades centrales de procesamiento; periferico para entrada, salida o almacenamiento de datos, equipos de contamunicaciones, etc. 
+
+        -software: de base y aplicativo 
+
+        - servicios: de analisis y diseño de sistemas; programacion, adecuacion de locales e instalacion, capacitacion, mantenimiento de equipos, de software, etc 
+
+
+    por otra parte, estos son clasificados segun el negocio juridico que se lleve a cabo. De venta; de equipo informatico, de programas. 
+
+        de leasing :    
+            -antes, el fabricante del material informatico y la entidad financiera de leasing, existia un contrato de compraventa en tanto que entre dicha entidad financiera y el usuario existia un alquiler ( locacion) con compromiso de venta..
+
+            - ahora lo regula como un contrato distino
+
+
+        De Locacion : 
+            -de equipo; de programas, etc 
+            -de horas maquina; es un contrato de cesion de uso para una cantidad de horas maquina
+            -de mantenimiento 
+            -de presentaciones intelectuales, de estudio previos. pliego de condiciones, formato del personal, contrato llave en mano.
+            -de prestacion de servicios.
+
+--ASPECTOS DE LA CONTRATACION INFORMATICA:
+
+    - Distancia entre el proveedor de bienes y servicios informaticos y el usuario. 
+
+        el deber de la informacion: cuando la contratacion involucrea aspectos relacionados con la tecnologia se hace evidente una disparidad de conocimiento entre el proveedor y el usuario. 
+
+            La doctrina y la jurisprudencia ponen a cargo del proveedor una serie de deberes de informacion y consejo. en la actualidad. se considera como consecuencia del principio de buena fe que en la etapa de formacion del contrato, existe la obligacion de hacer consistente a la otra parte de ciertos hechos susceptibles de influir en su decision.
+
+
+            CADA UNA DE LAS PARTE. tiene el deber de informar a la otra sobre cada circunstancia de hecho y de derecho de la que tenga conocimiento o de la que deba tener conocimiento. 
+
+
+
+------------------------------------------------------------------
+
+CONTRATOS INFORMATICOS. 
+
+        QUE ES 
+
+            Es un convenio cuyo objeto es un bien o servicio informatico. el objeto del contrato, seria la prestacion de un servicio infromatico. 
+
+        TIPOS DE CONTRATOS: 
+
+            Contrato electrónico: contratos que se celebran mediante la transmisión electrónica de datos de ordenador a ordenador(EDI).
+
+            Contrato informático: pueden referirse tanto a bienes
+            (hardware o software) como a servicios informáticos.
+            (mantenimiento de sistema, desarrollo y hospedaje de sitios¿web, prestación de servicios de certificación digital, etc.).
+
+
+            Contratos típicos: son todos aquellos contratos que se
+            encuentran regulados por una ley vigente. (Ejemplo el
+            contrato de compraventa o de leasing)
+
+            Contratos atípicos: Son los que no se encuentran regulados por la ley, pero han nacido por una necesidad humana o como consecuencia de algún invento o avance tecnológico. La existencia de los contratos atípicos se sustenta en la libertad contractual o autonomía privada de las personas. Art.1354 del código civil, “Las partes pueden determinar libremente el contenido del contrato, siempre que no sea contrario a la norma legal de carácter imperativo”.
+
+
+- Clasificación de los contratos informáticos;
+
+    Equipamiento:
+        Unidades centrales de procesamiento; periféricos para entrada, salida o
+        almacenamiento de datos; equipos de comunicaciones; etc.
+
+    ◻ Software:
+        De base y aplicativo.
+
+    Servicios:
+        De análisis y diseño de sistemas; programación, capacitación;
+        mantenimiento de equipos, de software; etc.
+
+    Son clasificados según el negocio jurídico que se celebre:
+    
+        De venta -
+        De Leasing -
+        De Locación – 
+        De horas de máquina –
+        De mantenimiento – 
+        De prestaciones intelectuales – 
+        De prestación de servicios.
+
+    
+    Partes del Contrato - PROVEEDORES
+
+            Encargados de la prestación de dar y hacer.
+
+            Poder de sustentar una posición más fuerte en la negociación
+
+            Obligaciones de resultado: 
+            garantiza el cumplimiento de la finalidad perseguida por el usuario.
+
+
+    Proveedores - Principales obligaciones    
+
+        Informar al usuario sobre los aspectos técnicos de la contratación.
+
+        ◻ Aconsejar al usuario de manera adecuada para satisfacer sus necesidades.
+
+        ◻ Asegurar el rendimiento de las prestaciones durante un período de
+        garantía establecida en el contrato.
+
+        ◻ Requerir al usuario los datos o información complementaria que pudieran
+        haber sido omitidas por desconocimiento, inexperiencia o por
+        considerarla innecesaria a los fines del negocio.
+
+        ◻ Recibir el pago por la prestación realizada.    
+
+
+    Partes del contrato - USUARIO
+            Usuarios: Aquellos que reciben la prestación de dar o hacer por parte del proveedor y están constituidos por el sector público o privado.
+
+Principales obligaciones:
+◻ Informar al proveedor cual es el objetivo que busca, así
+como la envergadura del sistema que desea contratar, del
+equipo que posee en ese momento (si es que lo hay) y,
+finalmente, del cuadro económico.
+◻ Pagar el precio determinado o determinable al proveedor
+por la prestación del bien o el servicio de mantenimiento.
+
+En caso de que el proveedor ocasione que el usuario se vea
+comprometido en infracciones, el usuario tiene el derecho a
+que el proveedor se haga cargo de cualquier gasto que le
+ocasione una defensa en juicio.
+◻ Recibir la prestación requerida siempre que esté dentro de
+los términos pactados.
+
+
+
+
+-------------------------- la vida de l contrato 
+
+    Período precontractual
+
+            1- periodo precontractual :
+                se delimita y precisa el objeto de la prensetacion 
+
+            2-Acuerdo de voluntades :
+                capacidad, objeto licito, causa y consentimiento
+
+            3- ejecucion del contrato :
+                prestaciones comprometidas por ambas partes 
+
+    
+    Acuerdo de voluntades: Clausulas
+
+ ◻ Modificación del objeto del contrato (al prolongarse el trabajo en el tiempo)
+◻ Garantías de funcionamiento (rendimiento de las prestaciones)
+◻ Garantías a los derechos de propiedad intelectual o industrial
+◻ Capacitación del personal del usuario (cambio de la tecnología informática)
+◻ Documentación (manuales y documentación anexa)
+◻ Asistencia técnica (de consultoría de sistemas al usuario)
+◻ Nulidad parcial de cláusulas (excluir del contrato cláusulas nulas o anulables, sin afectar el funcionamiento del conjunto.)
+◻ Confidencialidad (resulta de fundamental importancia para ambas partes)
+
+Ejecucion del contrato 
+Suscripto el contrato comienza el período de ejecución de las prestaciones comprometidas por ambas partes (entrega, pago del precio, mantenimiento, etc.), así como también entran a jugar las garantías del mismo.
+
+◻ ENTREGA (En los contratos informáticos cabe distinguir la entrega de la instalación)
+◻ MANTENIMIENTO (dentro de la etapa de ejecución del contrato)
+◻ VICIOS REDHIBITORIOS (compete al proveedor transmitir una posesión útil conforme a la finalidad requerida.) en el ámbito informático se considera cal cliente.

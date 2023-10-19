@@ -1,5 +1,7 @@
 Clase 12 octubre:
 
+
+    
     -   Continuamos con scrum : llegamos hasta la pagina 21
 
         - Esta bueno que se decida entre todos los backlog items.
@@ -13,6 +15,7 @@ Clase 12 octubre:
             - no ser mas de 8 y es interesante poner algo para gestionar el tiempo, como el ejemplo de la tostadora 
 
 
+"todos tienen liderazgo y todos se supervizan entre si"
 
 -Planing poker, tiene el objetivo de que cada uno elija su carta de lo que quiere hacer y que cada integrante del grupo designe un nivel de dificultad a cada tarea.  
     
@@ -35,6 +38,8 @@ El profe concidera que la review con todo el equipo es una perdida de tiempo, el
 
 el scrum es menos liberal que el canvan
 
+
+    El backlow es como un historial 
 
 
 

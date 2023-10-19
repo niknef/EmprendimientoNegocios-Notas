@@ -1,0 +1,93 @@
+Clase 07 Septiembre: 
+-que sociedades responden con suis bienes personales y cuales no 
+
+- estas igual de cubierto como monotributista que como una cooperativa de servicios informaticos 
+
+    QUE ES UNA SAS 
+
+        sociedad por acciones simplificada
+
+        un tipo societario que permite constituir una sociedad de manera simple, rapida y desde una computadora, ahorrando costos y tramites. 
+
+
+        REQUSIITOS :
+
+            tener CUIL, CUIT O CDI 
+            Tener clave fiscal nivel 2 o mas 
+            estar adherido al servicio TAD en Afip 
+
+        El Sistema de tramites a distancia, es una plataforma online que te permite realizar tramites ante la administracion publica Nacional desde una computadora.
+
+
+
+    VENTAJAS: 
+
+        -Facilidad: el tramite se realiza online a traves de TAD y obtiene de forma automatica el CUIT y la publicacion en el boletin oficial.
+        -Agil: Se puede optar constituir la SAS Adaptandose a un estatuto modelo que fue previamente aprobado por IGJ
+        -Economico: el valor del tramite es de 59000 y contempla los gastos de inscripcion y publicacion autonoma en el boletin oficiail 
+
+
+        MINIMO DE PERSONAS : 
+
+        ADMITE SOCIEDADES UNIPERSONALES. 
+
+            Aunque para constituirla se requiere al menos dos autoridades- -- UN ADMINISTRADOR TITULAR
+            -- UNO SUPLENTE
+            Ambos deberan firmar el instrumento constitutivo 
+
+¿QUÉ DECISIONES DEBEMOS TOMAR ANTES DE CONSTITUIR UNA SAS?        
+
+Denominación: El sistema va a verificar si está disponible, en forma
+online.
+
+Estatuto Modelo: si opta por este estatuto, se crea la SAS en 24 horas. Si el negocio no se adapta a las definiciones del Estatuto Modelo, se deberá consultar a un profesional especializado.
+
+Capital Mínimo: Si se elige el mínimo, no se necesita justificar la
+integración del 25% porque queda demostrada en el pago del costo del
+trámite. Caso contrario, se deposita el Banco Nación y se sube la boleta o se adjunta un acta notarial que lo acredit
+
+
+
+INSTRUMENTO PUBLICO O PRIVADO : 
+
+    PRIVADO: 
+        #FIRMA DIFITAL 
+        #FIRMA HOLOGRAFA
+
+
+    CAPITAL SOCIAL : 
+        DIVIDE EN acciones
+        Aportes: puede realizarse en bienes dinerarios o no dinerarios. 
+        Aportes irrevocables: se pueden mantener en tal caracter por el termino de 24 meses. negosacion de acciones 
+
+
+COMO SE ORGANIZAN: 
+    #Principio: los socios determinarán la estructura orgánica de
+    la S.A.S. y demás normas que rijan el funcionamiento de
+    los órganos sociales.
+
+    #Si es unipersonal: El socio único puede ejercer las
+    atribuciones de los órganos sociales, incluyendo
+    representación legal.
+
+    #Los órganos no tienen nombre en la ley 27.349, los socios
+    pueden organizarlos y hasta darles un nombre.
+    Funcionarán de acuerdo a la ley, de acuerdo al instrumento
+    constitutivo ,supletoriamente por las
+    normas de la S.R.L. y las disposiciones generales de la ley
+    19.550
+
+
+Órgano de Administración: 
+La Administración de la S.A.S estará a cargo de una o
+más personas HUMANAS, socios o no. Deberá designar suplente en el caso de prescindir de órgano de fiscalización.
+
+Posee los deberes y obligaciones que se prevé para las
+SRL.
+
+Al menos 1 miembro debe contar con domicilio real en
+el país.
+
+
+
+https://classroom.google.com/u/1/c/NTQyNzYzMzUxODIy/m/NTg5NjE4NjIyOTg2/details

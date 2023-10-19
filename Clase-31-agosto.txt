@@ -1,0 +1,21 @@
+Clase del 31 de agosto 
+
+
+    TIPOS DE SOCIEDADES EN ARGENTINA:
+
+Sociedades de hecho:Son sujetos de derecho. Tienen una existencia precaria ya que pueden ser disueltas cuando cualquiera de los socios lo solicite. Tienen un objeto comercial pero no se adecúan a un tipo societario.
+
+Sociedades Irregulares:son sociedades que adoptan uno de los tipos societarios previstos en la ley 19550, pero falta su inscripción en el Registro Público de Comercio.
+
+Sociedades Civiles:son aquellas que tienen por objeto alguna actividad civil, por ejemplo la explotación agropecuaria, el ejercicio de las profesiones liberales, la explotación de establecimientos educativos, entre otras. Según la definición de Código Civil habrá sociedad cuando dos o más partes mutuamente se obligan a una prestación con el fin de obtener alguna utilidad apreciable en dinero que habrán de distribuir entre los socios. Los aportes pueden ser en dinero o en especie. El administrador puede ser socio o no.
+
+Sociedad Colectiva:dividen su capital en partes de interés, la transmisión de las mismas no es libre, salvo pacto en contrario. Los socios contraen responsabilidad subsidiaria, ilimitada y solidaria por las obligaciones sociales.
+
+Sociedad en Comandita Simple:dividen su capital en parte de interés. En este tipo existen dos categorías de socios, los socios comanditados que responden por las obligaciones sociales de manera subsidiaria, ilimitada y solidaria, y los socios comanditarios que sólo responden con el capital que se obliguen a aportar.
+
+Sociedad de Capital e Industria:también dividen su capital en partes de interés. En este tipo existen dos categorías de socios, capitalistas que responden por las obligaciones sociales en forma solidaria, ilimitada y subsidiaria, y los socios industriales que responden en forma limitada hasta el total de las ganancias no percibidas.
+
+Sociedad en Comandita por Acciones:posee dos tipos de socios,los comanditados que responden por las obligaciones sociales como los socios de la sociedad colectiva y los socios comanditarios que limitan su responsabilidad al capital suscripto. Representan su capital en acciones.
+
+
+Sociedad Anónima:su capital se representa en acciones. Los socios limitan su responsabilidad a la integración de las acciones suscriptas. Las Sociedades Anónimas deben constituirse por instrumento público y por acto único o por suscripción pública.
